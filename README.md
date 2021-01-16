@@ -1,2 +1,2 @@
-# noSQL-povtorka
+# noSQL-povtorka by Denysiuk Serhii
  
