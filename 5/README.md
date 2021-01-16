@@ -18,7 +18,7 @@
  
 
 # Project Customization And Setup
-  1. Вставте необхідні дані в файл `lab5\src\main\java\com\lab5\denysiuk\StrategyKeys.java`. 
+  1. Вставте необхідні дані в файл `src\main\java\com\lab5\denysiuk\StrategyKeys.java`. 
   (REDIS_HOST, REDIS_KEY, CATALOG_NAME, EVENTHUB_NAME_SPACE, EVENTHUB_NAME, SAS_KEY_NAME, SAS_KEY)
   2. Можна запустити аплікацію напряму за допомогою авто-створених InteliJ IDEA конфігів для Spring Boot проекту.
   3. Якщо порт, який використовує сервіс зайнятий, то змінити дефолтний порт можна у `application.properties`, змінивши значення параметрa `server.port`.
