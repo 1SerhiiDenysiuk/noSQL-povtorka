@@ -1,0 +1,6 @@
+{
+  "event_hub": {
+    "conn_str": "Endpoint=sb://labsbd.servicebus.windows.net/;SharedAccessKeyName=lab8Denysiuk;SharedAccessKey=vf0O4iim+/kwJCXB3sa4uy5y6dQQsy5aweZ1qkpwyDo=",
+    "eventhub_name": "lab8denysiuk"
+  }
+}
